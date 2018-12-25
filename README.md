@@ -1,1 +1,1 @@
-Sun Oct 
+Sun 
