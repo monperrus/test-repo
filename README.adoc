@@ -1,0 +1,15 @@
+Automatic numbering
+
+[caption=""]
+.Parts{counter:index:0}
+
+.A mountain sunset
+[caption="Figure {counter:index}: "]
+image::https://user-images.githubusercontent.com/803666/97950634-77100700-1d8f-11eb-9369-92c37a8dae0d.jpg[Sunset]
+
+.Another sunset
+[caption="Figure {counter:index}: "]
+image::https://user-images.githubusercontent.com/803666/97950797-fb628a00-1d8f-11eb-86f2-ddd1dda75f67.jpg[Sunset2]
+
+
+test
